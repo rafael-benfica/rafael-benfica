@@ -21,7 +21,7 @@ Desde pequeno sempre fui apaixonado por tecnologia, e acredito que ter o poder d
 </a>
 
 ## Estudando 📖
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
   ![OracleDB](https://img.shields.io/badge/-Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![Prisma 2](https://img.shields.io/badge/-Prisma%202-0c334a?style=flat-square)
