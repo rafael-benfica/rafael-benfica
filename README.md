@@ -1,10 +1,7 @@
 # :man_technologist:💻 Rafael Alcântara
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-benfica/)](https://www.linkedin.com/in/rafael-benfica/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaABSilva)](https://github.com/RafaABSilva)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078d4?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:ra.fa.alcantara@hotmail.com)](mailto:ra.fa.alcantara@hotmail.com)
-[![Site Badge](https://img.shields.io/badge/-Meu%20Site-FFDB00?style=flat-square&link=https://www.rafaelbenfica.com.br/)](https://www.rafaelbenfica.com.br/)
-
 
 ## Oi, tudo bem?!
 
@@ -13,12 +10,10 @@ Desde pequeno sempre fui apaixonado por tecnologia, e acredito que ter o poder d
 - 👦🏻💻 Analista Desenvolvedor em **LIAX Tecnologia da Informação**
 - ❤️ Acho incrível desenvolver: Back-end e Mobile
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaabsilva&show_icons=true&count_private=true&theme=radical&hide=issues" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaabsilva&layout=compact&theme=radical" />
-</a>
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-benfica&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rafael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-benfica&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Estudando 📖
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=white)
