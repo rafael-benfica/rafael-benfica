@@ -7,9 +7,6 @@
 
 Desde pequeno sempre fui apaixonado por tecnologia, e acredito que ter o poder de prover soluções que facilitem, ou agilizem, a vida das pessoas é algo fantástico!
 
-- 👦🏻💻 Analista Desenvolvedor em **LIAX Tecnologia da Informação**
-- ❤️ Acho incrível desenvolver: Back-end e Mobile
-
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-benfica&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rafael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-benfica&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
